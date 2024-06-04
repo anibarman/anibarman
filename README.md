@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://anibarman.github.io/cv/"><img src="https://github.com/anibarman/anibarman/assets/124584999/8cbeac2d-3708-42bc-bf19-3969e4cccd93" width="100%"/></a>
+  <a href="https://anibarman.github.io/cv/"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/></a>
 </p>
 <h1 align="center" style="font-family:Book Antiqua;">Hi, I'm Animesh</h1>
 
